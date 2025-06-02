@@ -1,0 +1,293 @@
+{
+  "personal_info": {
+    "name": "Karan Nair",
+    "address": "The Dormers, Snipe Avenue, Upper New-Castle, Galway",
+    "visa_status": "STAMP 1G",
+    "phone": "+353892084101",
+    "linkedin": "https://www.linkedin.com/in/karannair99",
+    "github": "https://github.com/KNclusive?tab=repositories"
+  },
+  "objective": "AI/ML Engineer with expertise in deep learning, NLP, and large language models, skilled in developing scalable AI solutions for data-driven decision-making and process optimization.",
+  "skills": [
+    {
+      "skill": "Python",
+      "skill_type": "Programming_Language",
+      "proficiency": "High"
+    },
+    {
+      "skill": "SQL",
+      "skill_type": "Programming_Language",
+      "proficiency": "Intermediate"
+    },
+    {
+      "skill": "C++",
+      "skill_type": "Programming_Language",
+      "proficiency": "Standard"
+    },
+    {
+      "skill": "Pandas",
+      "skill_type": "Programming_library",
+      "proficiency": "High"
+    },
+    {
+      "skill": "Matplotlib",
+      "skill_type": "Programming_library",
+      "proficiency": "High"
+    },
+    {
+      "skill": "Numpy",
+      "skill_type": "Programming_library",
+      "proficiency": "High"
+    },
+    {
+      "skill": "sklearn",
+      "skill_type": "Programming_library",
+      "proficiency": "High"
+    },
+    {
+      "skill": "openCY",
+      "skill_type": "Programming_library",
+      "proficiency": "High"
+    },
+    {
+      "skill": "transformers",
+      "skill_type": "Programming_library",
+      "proficiency": "High"
+    },
+    {
+      "skill": "FastAPI",
+      "skill_type": "Framework",
+      "proficiency": "High"
+    },
+    {
+      "skill": "Pytorch",
+      "skill_type": "Framework",
+      "proficiency": "High"
+    },
+    {
+      "skill": "Langchain",
+      "skill_type": "Framework",
+      "proficiency": "High"
+    },
+    {
+      "skill": "Langgraph",
+      "skill_type": "Framework",
+      "proficiency": "High"
+    },
+    {
+      "skill": "Ngrok",
+      "skill_type": "Framework",
+      "proficiency": "High"
+    },
+    {
+      "skill": "LabelStudio",
+      "skill_type": "Framework",
+      "proficiency": "High"
+    },
+    {
+      "skill": "AWS S3",
+      "skill_type": "Cloud_Technology",
+      "proficiency": "High"
+    },
+    {
+      "skill": "AWS QuickSight",
+      "skill_type": "Cloud_Technology",
+      "proficiency": "High"
+    },
+    {
+      "skill": "AWS EC2",
+      "skill_type": "Cloud_Technology",
+      "proficiency": "High"
+    },
+    {
+      "skill": "AWS Lambda",
+      "skill_type": "Cloud_Technology",
+      "proficiency": "High"
+    },
+    {
+      "skill": "AWS ECR",
+      "skill_type": "Cloud_Technology",
+      "proficiency": "High"
+    },
+    {
+      "skill": "AWS Glue",
+      "skill_type": "Cloud_Technology",
+      "proficiency": "High"
+    },
+    {
+      "skill": "MLFlow",
+      "skill_type": "Machine-Learning_Tools",
+      "proficiency": "High"
+    },
+    {
+      "skill": "WandB (Weights&Biases)",
+      "skill_type": "Machine-Learning_Tools",
+      "proficiency": "High"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Data Scientist (Intern)",
+      "company": "Sun Life Financial",
+      "location": "Waterford, Ireland",
+      "work_type": "Hybrid",
+      "start_date": "2025/01/20",
+      "end_date": null,
+      "current": true,
+      "achievements": [
+        "Part of the Targeted research team working on Contact Center Intelligence aiming to reduce operations cost and enhance customer experience.",
+        "Analyze Contact Center Logs and Call Records (within compliance) to derive insights into reducing operational cost by finding inconsistencies.",
+        "Working on AWS S3, Glue and Quick-Sight to design ETL pipelines, and Generate and expose visualizations to key stakeholders.",
+        "Research adapting AI into contact center workflow for increased productivity and automation."
+      ],
+      "technologies": [
+        "AWS S3",
+        "AWS Glue",
+        "Quick-Sight",
+        "Python",
+        "AWS Sagemaker",
+        "Data Visualization Tools"
+      ]
+    },
+    {
+      "position": "Machine Learning Engineer (Intern)",
+      "company": "Vosyn AI",
+      "location": "Torronto, Ontario",
+      "work_type": "Remote",
+      "start_date": "2023/12/10",
+      "end_date": "2024/09/20",
+      "current": false,
+      "achievements": [
+        "Assisted in developing data preprocessing and model fine-tuning pipelines for Machine Translation LLMs from Hugging Face on AWS-SageMaker and AWS-Lambda.",
+        "Contributed to implementation of Lightweight models research using Quantization Aware Training (QAT) methods like Quantized Low-Rank Adaptation (QLoRA).",
+        "Explored distributed computing techniques to improve GPU utilization during quantization research using Distributed Data Parallelization (DDP) and Distributed Model Parallelization (MDP) in PyTorch using Nvidia Collective Communications Library (NCCL).Utilized AWS-S3, Lambda, and Sagemaker for model fine-tuning, inferencing, and data storage. Used MLflow for model registry and WANDB for Experimentation logging and meta-data documentation."
+      ],
+      "technologies": [
+        "AWS S3",
+        "Python",
+        "AWS Sagemaker",
+        "Hugging Face Library",
+        "Pytorch Framework"
+      ]
+    },
+    {
+      "position": "Software Developer",
+      "company": "Tech Mahindra",
+      "location": "Mumbai, India",
+      "work_type": "On-Site",
+      "start_date": "2021/06/06",
+      "end_date": "2023/07/10",
+      "current": false,
+      "achievements": [
+        "Led the design and implementation of a user-friendly GUI and automated backend processes for PC and RF-Scanner interfaces in custom QAD modules, streamlining shipment procedures and protocols for OEMs.",
+        "Excelled in a techno-functional role by delivering impactful client presentations and coordinating cross-departmental tasks, contributing to a 5% Improvement in project delivery timelines and enhanced client satisfaction.",
+        "Delivered comprehensive training sessions for clients and internal teams, effectively demonstrating advanced proficiency in automation tools and techniques. These sessions were tailored to bridge skill gaps, enhance operational efficiency, and empower teams to leverage automation for improved productivity and streamlined workflows.Bridged technical and business needs by leveraging Python for data-driven solutions, translating requirements into actionable results, and ensuring robust documentation and version control with GIT-leading to a 10% Reduction in post-deployment issues."
+      ],
+      "technologies": [
+        "Progress4GL",
+        "Python"
+      ]
+    },
+    {
+      "position": "Software (Intern)",
+      "company": "CMP Infotech",
+      "location": "Mumbai, India",
+      "work_type": "On-Site",
+      "start_date": "2021/04/1",
+      "end_date": "2021/05/31",
+      "current": false,
+      "achievements": [
+        "Designed and developed a user-friendly GUI framework tailored for Medical Institutions and Educational Platforms, enhancing usability and accessibility.",
+        "Contributed to an internal project focused on Library Maintenance, utilizing Gradient for learning and applying advanced computational techniques.",
+        "Strengthened technical skills in GUI development, project documentation, and iterative learning of new tools and frameworks."
+      ],
+      "technologies": [
+        "Python",
+        "C++"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Galway",
+      "degree": "Masters of Science",
+      "major": "Computer Science",
+      "minor": "Artificial Intelligence",
+      "start_year": "2023",
+      "end_year": "2024",
+      "result": "1:1",
+      "location": "Galway, Ireland"
+    },
+    {
+      "institution": "Xavier's Institute of Engineering",
+      "degree": "Bachelors of Engineering",
+      "major": "Electronics and Computer Engineering",
+      "minor": "",
+      "start_year": "2017",
+      "end_year": "2021",
+      "result": "2:1",
+      "location": "Mumbai, India"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Educate: Intorduction to Cloud",
+      "issuer": "Amazon Web Service",
+      "date_obtained": "2025/04/01",
+      "credential_id": "https://www.credly.com/badges/51fc23ef-08b1-4cc7-96de-0305135aa9b6/linked_in_profile"
+    },
+    {
+      "name": "AI Agent Fundamentals",
+      "issuer": "HuggingFace",
+      "date_obtained": "2025/05/01",
+      "credential_id": "https://cdn-lfs-us-1.hf.co/repos/f2/34/f2344151f60f6027c436821dc61cf3f27a46435de57df8df50ad02b5acca7c07/b4e6d16569fd9d38662a5da1c70189877ec13156a701059a0551ca8f72f13db0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-05-09.png%3B+filename%3D%222025-05-09.png%22%3B&response-content-type=image%2Fpng&Expires=1748256520&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODI1NjUyMH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zL2YyLzM0L2YyMzQ0MTUxZjYwZjYwMjdjNDM2ODIxZGM2MWNmM2YyN2E0NjQzNWRlNTdkZjhkZjUwYWQwMmI1YWNjYTdjMDcvYjRlNmQxNjU2OWZkOWQzODY2MmE1ZGExYzcwMTg5ODc3ZWMxMzE1NmE3MDEwNTlhMDU1MWNhOGY3MmYxM2RiMD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=aWGmg%7E36EE8A8YrVfdmBFLQeBgM68LA19SfmRShZ9adgrNsiEQMyIWV6g3XjgfyF9dRl-RPyJDtgc5IMEGQ2y-7bWn9JcOC8t3lPYDT3xsxarY1TOTX0URedhJwE96U9ZsibpQqQ98838OIS6%7ExdP7T9bUahTgjDkCYi%7EK8vBo59lWbZh-QMAFDSaN%7EnFD85R9RYe5mjccuvfSU4jCDkQRXXKxM-rs-0dzcKu9nEYqT6%7EIIk8sCIAKx9wo3F73Gjdp-p-ackqeTIlikKp2w8xX7%7E6chfHkACGBmdZ5hjXc1fZkkuYU4w05kqktbhbNHKy4X6iR3yeDi8blVBhmuqQQ__&Key-Pair-Id=K24J24Z295AEI9"
+    },
+    {
+      "name": "Introduction to Agents",
+      "issuer": "LangChain",
+      "date_obtained": "2024/11/13",
+      "credential_id": null
+    },
+    {
+      "name": "MTA: Introduction to programming Using Java",
+      "issuer": "Microsoft",
+      "date_obtained": "2021/03/20",
+      "credential_id": null
+    },
+    {
+      "name": "Python for Big Data, Data Science and Data mining",
+      "issuer": "Marquett University, Milwaukee, USA",
+      "date_obtained": "2020/03/14",
+      "credential_id": null
+    }
+  ],
+  "research_work": [
+    {
+      "title": "Enhanced opinion retrieval in large language models (LLMs)",
+      "institution": "University of Galway",
+      "start_date": "2023/09/01",
+      "end_date": "2024/09/01",
+      "description": "Fine-tuned Mistral-7B and LLaMA-8B with contrastive learning methods",
+      "outcomes": [
+        "Improved LLM opinion retrieval accuracy by 15%"
+      ]
+    },
+    {
+      "title": "Bluetooth Low Energy Beacon: A Review",
+      "institution": "Xavier's Institute of Engineering",
+      "start_date": "2020/09/01",
+      "end_date": "2021/08/01",
+      "description": "Created an BLE enmhanced advertising system to promote local business while ensuring COVID lockdown protocols",
+      "outcomes": [
+        "Co-authored paper at National Conference on Compu-tational Intelligence 2021, India"
+      ]
+    }
+  ],
+  "login": [
+    {
+      "domain": "Linkedin",
+      "user_name": "karannair1999@gmail.com",
+      "password": "DoN@1899"
+    }
+  ]
+}

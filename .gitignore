@@ -1,0 +1,6 @@
+jobautomation
+copy_folder
+node_modules
+Modelfile
+.mypy_cache
+__pycache__

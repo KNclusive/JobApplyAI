@@ -1,4 +1,4 @@
-# Job-Application-Agent
+# JobApplyAI
 This repository host an job-application agent using LangChain and Playwright
 
 The code works, possible remaining works:
